@@ -1,0 +1,20 @@
+
+ /** 
+ * ===================================================================
+ * background section
+ *
+ * ------------------------------------------------------------------- 
+ */
+ body {
+ background: url("../images/home.png") no-repeat fixed;
+
+ 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;	 
+ }
+ 
+
+
+
+/*# sourceMappingURL=welcome.css.map */
